@@ -20,60 +20,60 @@ Funções do SGA:
 
 = Requisitos Funcionais
 
-.Cadastro de Departamentos
+1) Cadastro de Departamentos
 
-.Cadastro de Cursos
+2) Cadastro de Cursos
 
-.Cadastro de Disciplinas
+3) Cadastro de Disciplinas
 
-.Cadastro de Alunos
+4) Cadastro de Alunos
 
-.Cadastro de Professores
+5) Cadastro de Professores
 
-.Cadastro de Turmas
+6)Cadastro de Turmas
 
-.Cadastro de Calendário Acadêmico
+7) Cadastro de Calendário Acadêmico
 
-.Matrícula de Alunos
+8) Matrícula de Alunos
 
-.Cadastro de Avaliações de Alunos
+9) Cadastro de Avaliações de Alunos
 
-.Emissão de Relatório de Alunos por Turma
+10) Emissão de Relatório de Alunos por Turma
 
-.Emissão de Relatório de Disciplinas por Curso
+11) Emissão de Relatório de Disciplinas por Curso
 
-.Emissão de Histórico Escolar
+12) Emissão de Histórico Escolar
 
-.Emissão de Calendário Acadêmico
+13) Emissão de Calendário Acadêmico
 
-.Emissão de Relatório do Horário de Disciplinas
+14) Emissão de Relatório do Horário de Disciplinas
 
-.Emissão de Relatório de Notas por Aluno no Período
+15) Emissão de Relatório de Notas por Aluno no Período
 
-.Emissão de Comprovante de Matrícula
+16) Emissão de Comprovante de Matrícula
 
-.Trancamento de Disciplina
+17) Trancamento de Disciplina
 
-.Gerenciamento de Login
+18) Gerenciamento de Login
 
-.Alteração de Senha
+19) Alteração de Senha
 
 
 
 = Requisitos Não-Funcionais
 
-.Sistema Web
+1) Sistema Web
 
-.Navegadores: Firefox 30+, Chrome35+, IE9+, Opera 26+, Safari 2+
+2) Navegadores: Firefox 30+, Chrome35+, IE9+, Opera 26+, Safari 2+
 
-.Linguagem de Desenvolvimento: JAVA EE
+3) Linguagem de Desenvolvimento: JAVA EE
 
-.Sistema Orientado a Objetos
+4) Sistema Orientado a Objetos
 
-.Padrão de Interface: Material Design
+5) Padrão de Interface: Material Design
 
-.Banco de Dados: MySQL
+6) Banco de Dados: MySQL
 
-.Disponibilidade do Sistema: 99% do tempo
+7) Disponibilidade do Sistema: 99% do tempo
 
-.Criptografia de Senhas: SHA-256
+8) Criptografia de Senhas: SHA-256
