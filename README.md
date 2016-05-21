@@ -3,7 +3,7 @@ Trabalho de Engenharia de Sofware - Elicitação de Requisitos
 
 Universidade Federal de Juiz de Fora
 
-Integrantes:
+= Integrantes:
 
   Helder Bertoldo
   
@@ -13,11 +13,12 @@ Integrantes:
   
   Wallyce Azy
 
-Levantamento de Requisitos para um Sistema de Gestão Acadêmica
+=Levantamento de Requisitos para um Sistema de Gestão Acadêmica
 
 Funções do SGA:
 
-Requisitos Funcionais
+
+= Requisitos Funcionais
 
 .Cadastro de Departamentos
 
@@ -59,7 +60,7 @@ Requisitos Funcionais
 
 
 
-Requisitos Não-Funcionais
+= Requisitos Não-Funcionais
 
 .Sistema Web
 
