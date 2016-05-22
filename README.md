@@ -30,13 +30,13 @@ Funções do SGA:
 
 5) okH Cadastro de Professores
 
-6)Cadastro de Turmas
+6)okCadastro de Turmas
 
-7) Cadastro de Calendário Acadêmico
+7) okCadastro de Calendário Acadêmico
 
-8) Matrícula de Alunos
+8) okMatrícula de Alunos
 
-9) Cadastro de Avaliações de Alunos
+9) okCadastro de Avaliações de Alunos
 
 10) Emissão de Relatório de Alunos por Turma
 
@@ -50,13 +50,13 @@ Funções do SGA:
 
 15) Emissão de Relatório de Notas por Aluno no Período
 
-16) Emissão de Comprovante de Matrícula
+16) okEmissão de Comprovante de Matrícula
 
-17) Trancamento de Disciplina
+17) okTrancamento de Turma
 
-18) Gerenciamento de Login
+18) OKGerenciamento de Login
 
-19) Alteração de Senha
+19) }OKAlteração de Senha
 
 
 
