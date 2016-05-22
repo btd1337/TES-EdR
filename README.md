@@ -20,15 +20,15 @@ Funções do SGA:
 
 = Requisitos Funcionais
 
-1) Cadastro de Departamentos
+1) okH Cadastro de Departamentos
 
-2) Cadastro de Cursos
+2) okH Cadastro de Cursos
 
-3) Cadastro de Disciplinas
+3) okH Cadastro de Disciplinas
 
-4) Cadastro de Alunos
+4) okH Cadastro de Alunos
 
-5) Cadastro de Professores
+5) okH Cadastro de Professores
 
 6)Cadastro de Turmas
 
@@ -62,17 +62,17 @@ Funções do SGA:
 
 = Requisitos Não-Funcionais
 
-1) Sistema Web
+1) okH Sistema Web
 
 2) Navegadores: Firefox 30+, Chrome35+, IE9+, Opera 26+, Safari 2+
 
-3) Linguagem de Desenvolvimento: JAVA EE
+3) okH Linguagem de Desenvolvimento: JAVA EE
 
 4) Sistema Orientado a Objetos
 
-5) Padrão de Interface: Material Design
+5) okH Padrão de Interface: Material Design
 
-6) Banco de Dados: MySQL
+6) okH Banco de Dados: MySQL
 
 7) Disponibilidade do Sistema: 99% do tempo
 
