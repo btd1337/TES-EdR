@@ -1,4 +1,4 @@
-# TES-EdR
+﻿# TES-EdR
 Trabalho de Engenharia de Sofware - Elicitação de Requisitos
 
 Universidade Federal de Juiz de Fora
@@ -58,6 +58,8 @@ Funções do SGA:
 
 19) }OKAlteração de Senha
 
+20) Histórico
+
 
 
 = Requisitos Não-Funcionais
@@ -76,4 +78,8 @@ Funções do SGA:
 
 7) Disponibilidade do Sistema: 99% do tempo
 
-8) Criptografia de Senhas: SHA-256
+8) Vizualização de Relatórios
+
+9) Bloqueio de Login
+
+10) Processamento de Matrículas
